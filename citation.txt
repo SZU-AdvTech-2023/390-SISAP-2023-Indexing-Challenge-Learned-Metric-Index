@@ -1,0 +1,8 @@
+@inproceedings{REPO390,
+    author = "Slanin{\'a}kov{\'a}, Ter{\`e}zia and Proch{\'a}zka, David and Antol, Matej and Olha, Jaroslav and Dohnal, Vlastislav",
+    booktitle = "International Conference on Similarity Search and Applications",
+    organization = "Springer",
+    pages = "282--290",
+    title = "{SISAP 2023 Indexing Challenge--Learned Metric Index}",
+    year = "2023"
+}
